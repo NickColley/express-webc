@@ -1,5 +1,7 @@
 # Express WebC
 
+Not implemented yet: Access to webc bundles.
+
 ## Install
 
 ```bash
@@ -37,4 +39,12 @@ app.listen(8080, () => {
         <h1>Hello, World.</h2>
     </body>
 </html>
+```
+
+## Configuring components
+
+Default components directory is the "components" directory
+
+```javascript
+app.set("webc:components", "directory-for-my-components");
 ```
