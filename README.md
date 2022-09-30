@@ -5,7 +5,7 @@ Not implemented yet: Access to webc bundles.
 ## Install
 
 ```bash
-npm install github:NickColley/express-webc
+npm install express-webc
 ```
 
 ```javascript

@@ -4,6 +4,6 @@
   "version": "0.0.0",
   "main": "app.js",
   "dependencies": {
-    "express-webc": "github:NickColley/express-webc"
+    "express-webc": "^0.0.1"
   }
 }

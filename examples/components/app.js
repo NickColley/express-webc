@@ -1,5 +1,5 @@
 const express = require("express");
-const { WebCEngine } = require("../../index.js");
+const { WebCEngine } = require("express-webc");
 
 const app = express();
 app.engine("webc", WebCEngine);
