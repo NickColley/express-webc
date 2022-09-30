@@ -30,7 +30,7 @@ app.listen(8080, () => {
 });
 ```
 
-## 3. Create your initial view
+### 3. Create your initial view
 
 ```html
 <!-- views/index.webc -->
