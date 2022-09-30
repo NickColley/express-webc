@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-npm install github:nickcolley/express-webc
+npm install github:NickColley/express-webc
 ```
 
 ```javascript
