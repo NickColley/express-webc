@@ -1,0 +1,16 @@
+{
+  "name": "express-webc",
+  "version": "0.0.1",
+  "description": "WebC Template Engine for ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/webc": "^0.4.5"
+  },
+  "devDependencies": {
+    "express": "^4.18.1"
+  }
+}
